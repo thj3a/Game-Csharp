@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\bin\Debug\net6.0\GameApp.exe
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\bin\Debug\net6.0\GameApp.deps.json
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\bin\Debug\net6.0\GameApp.runtimeconfig.json
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\bin\Debug\net6.0\GameApp.dll
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\bin\Debug\net6.0\ref\GameApp.dll
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\bin\Debug\net6.0\GameApp.pdb
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.AssemblyInfo.cs
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.dll
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\ref\GameApp.dll
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.pdb
+C:\Users\arthu\Desktop\coding\scripts-VB.NET\Game C#\GameApp\obj\Debug\net6.0\GameApp.genruntimeconfig.cache
